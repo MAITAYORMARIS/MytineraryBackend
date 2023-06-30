@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "_id": "6498d990931a59b9c4c80ab6",
+            "name": "Buenos Aires",
+            "banner": "",
+            "country": "Argentinian Republic",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2FbuenosAires.jpg?alt=media&token=782ef8de-7d1c-45f8-b432-145098ad0777",
+            "info": "Meet the Queen of the Rio de la Plata. The great cosmopolitan capital of Argentina, a captivating, seductive city full of vibrant energy.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
+            "phrase": "Gateway of Argentina",
+            "region": "Latin America"
+        },
+        {
+            "_id": "6498d990931a59b9c4c80ab6",
+            "name": "Buenos Aires",
+            "banner": "",
+            "country": "Argentinian Republic",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2FbuenosAires.jpg?alt=media&token=782ef8de-7d1c-45f8-b432-145098ad0777",
+            "info": "Meet the Queen of the Rio de la Plata. The great cosmopolitan capital of Argentina, a captivating, seductive city full of vibrant energy.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
+            "phrase": "Gateway of Argentina",
+            "region": "Latin America"
+        },
+        {
+            "_id": "6498de3c931a59b9c4c80ab7",
+            "name": "The Asuncion",
+            "banner": "",
+            "country": "Bolivarian Republic of Venezuela",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2FMargaritas.jpg?alt=media&token=0f98628b-228d-4ac1-a750-d3325c36724b",
+            "info": "Visit Asuncion and tour this beautiful and quiet city through its pedestrian streets.\n\nTour the Isla de Margarita and enjoy beautiful beaches and the warm waters of the Caribbean Sea. Be sure to take a walk through some of its towns, which have many interesting treasures waiting for you to discover them.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
+            "phrase": "The pearl of the caribbean in Venezuela",
+            "region": "Latin America"
+        },
+        {
+            "_id": "6498e0f4931a59b9c4c80ab8",
+            "name": "Hong Kong",
+            "banner": "",
+            "country": "Popular Republic of China",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2FHongKong.jpg?alt=media&token=903ae7b5-416a-47e4-94ea-0770f491faa2",
+            "info": "Explore this important port city and be dazzled by its landscape full of skyscrapers. Get to know the traditional Chinese architecture and then be sure to visit the famous Temple Street Night Market with an incomparable gastronomic scene",
+            "phrase": "The island of perfumed waters in China",
+            "region": "Asia"
+        },
+        {
+            "_id": "6498e2ab931a59b9c4c80ab9",
+            "name": "Ibiza",
+            "banner": "",
+            "country": "Spain",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fibiza.jpg?alt=media&token=6ee380b5-000b-4b5a-a049-1121b9f5950d",
+            "info": "Come and enjoy its more than 50 beaches and many restaurants, bars and water sports; and nightclubs, of course. Enjoy the European destination with the greatest nightlife attraction: party until you can't anymore",
+            "phrase": "Get to know the Balearic Islands: Spain",
+            "region": "Europe"
+        },
+        {
+            "_id": "6498e442931a59b9c4c80aba",
+            "name": "Agra",
+            "banner": "",
+            "country": "Republic of India",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Ftaj-mahal.jpg?alt=media&token=391ddf49-ad31-4b30-bd84-3a59bb1de703",
+            "info": "Come to know this historic city and visit the most famous mausoleum in the world: The Taj Mahal",
+            "phrase": "Get to know Agra: India",
+            "region": "Asia"
+        },
+        {
+            "_id": {
+                "$oid": "649a0c66bcdfa1ab076e17b7"
+            },
+            "name": "Madrid",
+            "banner": "",
+            "country": "Spain",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fmadrid.jpg?alt=media&token=47758440-8656-4b39-a970-1cf2a3390e9b",
+            "info": "Come and discover one of the most populated cities in Europe. Madrid is an influential cultural center, where you can enjoy impressive architectural tours and museum visits. Do not forget that your tour will be better tasting Spanish food and wines.",
+            "phrase": "The fairy tale capital of Spain",
+            "region": "Europe"
+        },
+        {
+            "_id": {
+                "$oid": "649a0cedbcdfa1ab076e17b8"
+            },
+            "name": "Male",
+            "banner": "",
+            "country": "Republic of the Maldives",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2FMaldives.jpg?alt=media&token=33674e33-ffa3-4bb1-a855-96604d721178",
+            "info": "Come and enjoy the sun and the paradisiacal view on the beaches of Malé. Sign up for underwater photo sessions and be sure to try its culinary delights in the local markets where you will find fresh products",
+            "phrase": "Male, the Soul of the Maldives",
+            "region": "Asia"
+        },
+        {
+            "_id": "649a110cbcdfa1ab076e17b9",
+            "name": "Munich",
+            "banner": "",
+            "country": "Federal Republic of Germany",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fmunich.jpg?alt=media&token=cf1cdede-2d14-41c3-b867-99961d4b52e3",
+            "info": "Explore Munich and let yourself be carried away by its Bavarian charm. Explore its monuments and museums with high historical value. If you enjoy a beer, you can't miss visiting Hofbräuhaus",
+            "phrase": "Munich likes you: Germany",
+            "region": "Europe"
+        },
+        {
+            "_id": "649a137ebcdfa1ab076e17ba",
+            "name": "Paris",
+            "banner": "",
+            "country": "French Republic",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fparis.jpg?alt=media&token=85839270-3709-45d4-862a-4f053ec08c9f",
+            "info": "Get to know the most visited tourist destination in the world. Paris is one of the most important cities in the field of culture, gastronomy, fashion and luxury. Come and see its large stone and wrought iron buildings, its cozy cafes and the curves of the Seine bank are absolutely cinematic",
+            "phrase": "City of Light in France",
+            "region": "Europe"
+        }
+    ]
+}

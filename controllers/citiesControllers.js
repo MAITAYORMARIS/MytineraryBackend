@@ -138,7 +138,7 @@ const citiesControllers = {
     },
 
     deleteManyCities: async (req, res) => {
-        const id = req.params.id
+        const id = req.body.id
         citiesDelete=[]
         let error = []
 
