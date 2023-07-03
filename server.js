@@ -15,7 +15,6 @@ app.set("port",PORT);
 app.use(express.json())
 app.use("/api",Routes)
 
-
 app.listen(PORT, ()=>{
     console.log("EL SERVIDOR ESTA ACTIVO EN PUERTO:" + app.get("port"))
 })
