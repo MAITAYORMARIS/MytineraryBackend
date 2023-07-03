@@ -139,6 +139,20 @@
             "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalDps.jpg?alt=media&token=28ec6d24-cba9-4d8a-9662-1e6dba44ccb9",
             "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalTres.jpeg?alt=media&token=d596c29f-1f89-43bf-8932-a44eff8d0710",
             "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalUno.jpg?alt=media&token=3f776c3a-f860-4d8e-b34a-3c63c941d04a"
+        },
+        {
+            "_id": "",
+            "name": "Bangkok",
+            "banner": "",
+            "country": "Thailand",
+            "language":"",
+            "image": "",
+            "info": "",
+            "phrase": "",
+            "region": "",
+            "galUno":"",
+            "galDos":"",
+            "galTres":""
         }
     ]
 }
