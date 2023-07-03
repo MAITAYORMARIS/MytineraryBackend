@@ -1,108 +1,144 @@
 {
     "data": [
         {
-            "_id": "6498d990931a59b9c4c80ab6",
-            "name": "Buenos Aires",
-            "banner": "",
-            "country": "Argentinian Republic",
-            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2FbuenosAires.jpg?alt=media&token=782ef8de-7d1c-45f8-b432-145098ad0777",
-            "info": "Meet the Queen of the Rio de la Plata. The great cosmopolitan capital of Argentina, a captivating, seductive city full of vibrant energy.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
-            "phrase": "Gateway of Argentina",
-            "region": "Latin America"
+                "_id": "64978146ce56f1a336e9bfe2",
+                "name": "Mexico City",
+                "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2Fd7343474-f49d-4e75-86e8-fe5037998b3a.jpg?alt=media&token=49af936b-07e6-40f5-8e02-60db3ff95a30",
+                "country": "United States of Mexico",
+                "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2FciudadDeMexicojpg.jpg?alt=media&token=05723253-a71b-43e2-b7a8-723fe717fd40",
+                "info": "Come and discover the metropolis of Mexico City, where contemporary life mixes with ancient history that goes back to the Aztecs. Vibrant dining options, nightlife, arts and culture",
+                "phrase": "Gateway of Mexico",
+                "region": "Latin America",
+                "galDos": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalDos.jpg?alt=media&token=18f14567-595a-40c4-9ffd-484dd68e7ad8",
+                "galTres": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalTres.jpg?alt=media&token=366cae29-0cb4-4fe6-a3d0-ee52dbdb6425",
+                "galUno": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalUno.jpg?alt=media&token=86145daf-9d6a-49be-a8c1-ae754d9ab8a1",
+                "language": "Spanish"
         },
         {
             "_id": "6498d990931a59b9c4c80ab6",
             "name": "Buenos Aires",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2Fgalery%2F11b824ed-30be-4446-8ad7-cf7d68dee925.jpg?alt=media&token=aa24fb96-2f88-41ef-bc91-ef3d3ba638a9",
             "country": "Argentinian Republic",
+            "language": "Spanish",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2FbuenosAires.jpg?alt=media&token=782ef8de-7d1c-45f8-b432-145098ad0777",
             "info": "Meet the Queen of the Rio de la Plata. The great cosmopolitan capital of Argentina, a captivating, seductive city full of vibrant energy.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
             "phrase": "Gateway of Argentina",
-            "region": "Latin America"
+            "region": "Latin America",
+            "galUno": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2Fgalery%2FgalTres.jpg?alt=media&token=7200101b-a3ed-42cb-a003-32d2dab44fd8",
+            "galDos": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2Fgalery%2FgalDos.jpg?alt=media&token=160fb7fb-0ebe-4c03-b92c-c680279c2785",
+            "galTres": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BUENOS%20AIRES%2Fgalery%2FgalUno.jpg?alt=media&token=c51c22ce-cd09-4fb5-8c3d-e044167c3b91"
         },
         {
             "_id": "6498de3c931a59b9c4c80ab7",
             "name": "The Asuncion",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2Fgalery%2F978f94e5-58e4-48ce-8636-b525745434fe.jpg?alt=media&token=4a3431aa-fe3b-4014-ae19-a46f10b49cfe",
             "country": "Bolivarian Republic of Venezuela",
+            "language": "Spanish",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2FMargaritas.jpg?alt=media&token=0f98628b-228d-4ac1-a750-d3325c36724b",
             "info": "Visit Asuncion and tour this beautiful and quiet city through its pedestrian streets.\n\nTour the Isla de Margarita and enjoy beautiful beaches and the warm waters of the Caribbean Sea. Be sure to take a walk through some of its towns, which have many interesting treasures waiting for you to discover them.\n\nLet yourself be dazzled by its architecture, where the European heritage stands out. Their dances and their urban life that continues until dawn.",
             "phrase": "The pearl of the caribbean in Venezuela",
-            "region": "Latin America"
+            "region": "Latin America",
+            "galUno": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2Fgalery%2FgalUno.jpg?alt=media&token=7d0a8a82-e484-44a9-b52b-6e8fa7c8ffab",
+            "galDos": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2Fgalery%2FgalDos.jpg?alt=media&token=57309fde-c779-47e6-a368-aaabed269b3b",
+            "galTres": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MARGARITA%2Fgalery%2FgalTres.jpg?alt=media&token=3c5c3a22-ec6d-4162-bc38-5e290091bd7f"
         },
         {
             "_id": "6498e0f4931a59b9c4c80ab8",
             "name": "Hong Kong",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2Fgalery%2Fc3f863b0-410d-4fde-aca0-4c579147b78b.jpg?alt=media&token=86faaabd-34ce-4e77-8b52-961a2c3fc670",
             "country": "Popular Republic of China",
+            "language": "Chinese",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2FHongKong.jpg?alt=media&token=903ae7b5-416a-47e4-94ea-0770f491faa2",
             "info": "Explore this important port city and be dazzled by its landscape full of skyscrapers. Get to know the traditional Chinese architecture and then be sure to visit the famous Temple Street Night Market with an incomparable gastronomic scene",
             "phrase": "The island of perfumed waters in China",
-            "region": "Asia"
+            "region": "Asia",
+            "galUno": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2Fgalery%2FgalUno.jpeg?alt=media&token=4eb149ff-0b2d-460e-8d52-0ea9b1283b4e",
+            "galDos": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2Fgalery%2FgalDos.jpg?alt=media&token=f1d464b3-b2d6-407e-9f4f-c7cd9d31ce2a",
+            "galTres": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/HONG%20KONG%2Fgalery%2FgalTres.jpg?alt=media&token=5a3bca43-565a-43d1-96aa-04bc78196f9e"
         },
         {
             "_id": "6498e2ab931a59b9c4c80ab9",
             "name": "Ibiza",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fgalery%2F03cb074a-be93-4eab-92dc-8de3209d4eef.jpg?alt=media&token=df571671-997f-4659-8139-bed7e5a66174",
             "country": "Spain",
+            "language":"Spanish",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fibiza.jpg?alt=media&token=6ee380b5-000b-4b5a-a049-1121b9f5950d",
             "info": "Come and enjoy its more than 50 beaches and many restaurants, bars and water sports; and nightclubs, of course. Enjoy the European destination with the greatest nightlife attraction: party until you can't anymore",
             "phrase": "Get to know the Balearic Islands: Spain",
-            "region": "Europe"
+            "region": "Europe",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fgalery%2Fgaldos.jpg?alt=media&token=abebbc41-b518-4f4f-a059-3e1878bd7d17",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fgalery%2FgalUno.jpg?alt=media&token=8dfbacfd-5adb-456f-80f9-04e019021a4f",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/IBIZA%2Fgalery%2FgalTres.jpeg?alt=media&token=4bd02d58-fd4f-4f49-9ff1-5fb29e132add"
         },
         {
             "_id": "6498e442931a59b9c4c80aba",
             "name": "Agra",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2F2cb87f7f-af91-4ff2-8387-8955eb519dc3.jpg?alt=media&token=45b497f9-3aa9-4226-96c0-42367f93b277",
             "country": "Republic of India",
+            "language":"Hindi",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Ftaj-mahal.jpg?alt=media&token=391ddf49-ad31-4b30-bd84-3a59bb1de703",
             "info": "Come to know this historic city and visit the most famous mausoleum in the world: The Taj Mahal",
             "phrase": "Get to know Agra: India",
-            "region": "Asia"
+            "region": "Asia",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalDos.jpg?alt=media&token=c9ce151d-47bb-4dbd-b4e2-a6aacbc8c9d5",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalTres.jpg?alt=media&token=7d60e645-b6d0-46eb-9cbf-135bcbfb0f90",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/INDIA%2Fgalery%2FgalUno.jpg?alt=media&token=82aacfb6-816f-4994-a1d8-fcc6361d5734"
         },
         {
-            "_id": {
-                "$oid": "649a0c66bcdfa1ab076e17b7"
-            },
+            "_id":"649a0c66bcdfa1ab076e17b7",
             "name": "Madrid",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2F0969b4eb-43de-4573-9002-ddb635be0653.jpg?alt=media&token=a01960e8-4b30-4e86-8e7d-1d4c2b7cac69",
             "country": "Spain",
+            "language": "Spanish",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fmadrid.jpg?alt=media&token=47758440-8656-4b39-a970-1cf2a3390e9b",
             "info": "Come and discover one of the most populated cities in Europe. Madrid is an influential cultural center, where you can enjoy impressive architectural tours and museum visits. Do not forget that your tour will be better tasting Spanish food and wines.",
             "phrase": "The fairy tale capital of Spain",
-            "region": "Europe"
+            "region": "Europe",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2FgalUno.jpg?alt=media&token=c89a1404-13e0-4f78-be3e-668f202d5350",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2FgalDos.jpg?alt=media&token=e8244d02-6925-441f-9d83-29ebfe434f23",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MADRID%2Fgalery%2Fgaltres.jpg?alt=media&token=f2723a96-4110-4f74-8436-e04ec058020d"
         },
         {
-            "_id": {
-                "$oid": "649a0cedbcdfa1ab076e17b8"
-            },
+            "_id": "649a0cedbcdfa1ab076e17b8",
             "name": "Male",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2F76d98562-14ce-412b-9fa3-e786b59e70a8.jpg?alt=media&token=e44dd6ea-f9e3-4482-b63a-619a9dc5ee50",
             "country": "Republic of the Maldives",
+            "language":"Dhivehi",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2FMaldives.jpg?alt=media&token=33674e33-ffa3-4bb1-a855-96604d721178",
             "info": "Come and enjoy the sun and the paradisiacal view on the beaches of Malé. Sign up for underwater photo sessions and be sure to try its culinary delights in the local markets where you will find fresh products",
             "phrase": "Male, the Soul of the Maldives",
-            "region": "Asia"
+            "region": "Asia",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalUno.jpg?alt=media&token=ac770f0b-9164-409e-9e69-401fe01634c2",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalDps.jpg?alt=media&token=3150fe3c-a937-4f48-b037-680dcba507d7",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MALDIVES%2Fgalery%2FgalTres.jpg?alt=media&token=90ca8ebe-ada8-458f-80af-c785f6877d83"
         },
         {
             "_id": "649a110cbcdfa1ab076e17b9",
             "name": "Munich",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2F3169f8f2-9011-4543-8741-6cd9e2ca0118.jpg?alt=media&token=55e755a4-fffd-4ee0-aaa5-01ed2bde9be6",
             "country": "Federal Republic of Germany",
+            "language":"German",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fmunich.jpg?alt=media&token=cf1cdede-2d14-41c3-b867-99961d4b52e3",
             "info": "Explore Munich and let yourself be carried away by its Bavarian charm. Explore its monuments and museums with high historical value. If you enjoy a beer, you can't miss visiting Hofbräuhaus",
             "phrase": "Munich likes you: Germany",
-            "region": "Europe"
+            "region": "Europe",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalTres.png?alt=media&token=7464c297-f141-4372-a4c3-2cb651466917",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalDos.jpg?alt=media&token=899148e1-46ab-4305-8508-b2428f2aceb1",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MUNICH%2Fgalery%2FgalUno.jpg?alt=media&token=2842351f-050b-4cee-9b76-b14f253370e2"
         },
         {
             "_id": "649a137ebcdfa1ab076e17ba",
             "name": "Paris",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2Fc0c54d51-8208-4a49-84bf-35c0c2ee7806.jpg?alt=media&token=eadf90ff-8c93-4dc4-80f2-7d6db2259b8b",
             "country": "French Republic",
+            "language":"French",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fparis.jpg?alt=media&token=85839270-3709-45d4-862a-4f053ec08c9f",
             "info": "Get to know the most visited tourist destination in the world. Paris is one of the most important cities in the field of culture, gastronomy, fashion and luxury. Come and see its large stone and wrought iron buildings, its cozy cafes and the curves of the Seine bank are absolutely cinematic",
             "phrase": "City of Light in France",
-            "region": "Europe"
+            "region": "Europe",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalDps.jpg?alt=media&token=28ec6d24-cba9-4d8a-9662-1e6dba44ccb9",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalTres.jpeg?alt=media&token=d596c29f-1f89-43bf-8932-a44eff8d0710",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/PARIS%2Fgalery%2FgalUno.jpg?alt=media&token=3f776c3a-f860-4d8e-b34a-3c63c941d04a"
         }
     ]
 }
