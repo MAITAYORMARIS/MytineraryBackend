@@ -143,16 +143,31 @@
         {
             "_id": "",
             "name": "Bangkok",
-            "banner": "",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/Bangkok%2Fgalery%2Fba5315ed-8cda-4473-83e8-379abb8fac15.jpg?alt=media&token=fe0713e7-211b-42e8-a720-6651c4391cbe",
             "country": "Thailand",
-            "language":"",
-            "image": "",
-            "info": "",
-            "phrase": "",
-            "region": "",
-            "galUno":"",
-            "galDos":"",
-            "galTres":""
-        }
+            "language":"Thai",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/Bangkok%2Fbankok.jpg?alt=media&token=df4eb9c0-5e51-4494-b5e2-eef75a64284b",
+            "info": "Come to Bangkok practice some yoga, try Thai food, enjoy a massage and let yourself be carried away by the views of this City. Get to know its magnificent Buddhist temples and take a boat tour of its river and its canals. Don't miss out on visiting its grandiose Royal Palace",
+            "phrase": "The city of Los Angeles",
+            "region": "Asia",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/Bangkok%2Fgalery%2FgalUno.jpg?alt=media&token=5c41b2fa-2a26-4024-989b-e8d3009c5e63",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/Bangkok%2Fgalery%2FgalTres.jpg?alt=media&token=4b7f8f1a-94c6-4669-9788-08a963c35ad5",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/Bangkok%2Fgalery%2FgalDos.jpg?alt=media&token=1dccd36d-5cfb-43f8-b2da-429a70c344b4"
+        },
+        {
+            "_id": "",
+            "name": "Bariloche",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fbed55553-27f4-4e38-8ed3-97af915b6aa1.jpg?alt=media&token=51136b25-ab3c-4ac2-8b33-da8d242eead0",
+            "country": "Argentinian Republic",
+            "language":"Spanish",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fbariloche.jpg?alt=media&token=e8e02e73-226f-486a-a5a6-251a18535fe5",
+            "info": "Get to know the most important tourist center in Argentine Patagonia. Enjoy lakes, forests and mountains. Do outdoor activities: walks, horseback riding, trout fishing, skiing, excursions and boat or catamaran trips on Lake Nahuel Huapi",
+            "phrase": "You are where you wanted to be. You are in Bariloche",
+            "region": "Latin America",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaluno.jpg?alt=media&token=feec22d5-4911-43b0-bb2a-81096accb0b9",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaldos.jpg?alt=media&token=33b38400-60c7-46f2-a91a-008f65c2aff7",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaltres.jpg?alt=media&token=fd1c8fdf-e864-4873-b9a7-9f59345500eb"
+        },
+        
     ]
 }
