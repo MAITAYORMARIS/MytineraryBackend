@@ -162,12 +162,69 @@
             "language":"Spanish",
             "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fbariloche.jpg?alt=media&token=e8e02e73-226f-486a-a5a6-251a18535fe5",
             "info": "Get to know the most important tourist center in Argentine Patagonia. Enjoy lakes, forests and mountains. Do outdoor activities: walks, horseback riding, trout fishing, skiing, excursions and boat or catamaran trips on Lake Nahuel Huapi",
-            "phrase": "You are where you wanted to be. You are in Bariloche",
+            "phrase": "You are where you wanted to be. You are in Bariloche, Argentina",
             "region": "Latin America",
             "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaluno.jpg?alt=media&token=feec22d5-4911-43b0-bb2a-81096accb0b9",
             "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaldos.jpg?alt=media&token=33b38400-60c7-46f2-a91a-008f65c2aff7",
             "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BARILOCHE%2Fgalery%2Fgaltres.jpg?alt=media&token=fd1c8fdf-e864-4873-b9a7-9f59345500eb"
         },
+        {
+            "_id": "",
+            "name": "Bogota",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BOGOTA%2Fgalery%2F0d7252cb-8b2e-4c1b-9c9c-c404fd4117b6.jpg?alt=media&token=9fddc959-a3c9-4d5a-a917-76ed732747ae",
+            "country": "Republic of Colombia",
+            "language":"Spanish",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BOGOTA%2Fbogota.jpg?alt=media&token=93a55273-e7de-434c-9b40-99ddc4e383da",
+            "info": "Fill yourself with the energy of this metropolitan center of Colombia, visit hundreds of eclectic and authentic places to eat, fantastic wines and frequent food festivals.",
+            "phrase": "Get to know the South American Athens in Colombia",
+            "region": "Latin America",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BOGOTA%2Fgalery%2Fgaltres.jpg?alt=media&token=009c32c2-935f-40a6-9a9f-7efe837e398d",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BOGOTA%2Fgalery%2Fgaldos.jpg?alt=media&token=8d383474-833a-4893-9bc9-215a4ae58116",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BOGOTA%2Fgalery%2Fgal1.jpg?alt=media&token=f948133d-d870-416a-9ee2-76d3992073de"
+        },
+        {
+            "_id": "",
+            "name": "Bora Bora",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fgalery%2F48dc8c3a-6ac1-4ff4-a5c8-305fe2180e63.jpg?alt=media&token=d8dbfa27-32a9-4b92-8460-e3a4f78d6fac",
+            "country": "French Republic",
+            "language":"French",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fbora.jpg?alt=media&token=78dbe65e-e687-4561-a6a0-bc8be92c0a4c",
+            "info": "Turquoise lagoons, soft white sands and deep orange sunsets set the stage for romance on an island so nice it was named twice. Relax on the beautiful beaches, snorkel the tropical reefs or enjoy a refreshing cocktail at one of the many luxury hotels and resorts on the island.",
+            "phrase": "Created by the gods",
+            "region": "Oceania",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fgalery%2FgalTres.jpg?alt=media&token=0db883e1-4603-44b0-90a9-ba6874054e36",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fgalery%2FgalUno.jpg?alt=media&token=c17ac2d7-eaac-4311-9a6b-63b62c7aa6fc",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/BORABORA%2Fgalery%2FgalDos.jpg?alt=media&token=0d8846fe-d307-48b2-b0b0-211b79b444f7"
+        },
+        {
+            "_id": "",
+            "name": "Cancun",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CANCUN%2Fgalery%2Fd692a24b-85e6-4db7-89b5-e6cb31e2a2b4.jpg?alt=media&token=2fe7abaf-1481-4847-8bcd-e6ec16482b27",
+            "country": "United States of Mexico",
+            "language":"Spanish",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CANCUN%2Fcancun.jpg?alt=media&token=781019d5-dcd1-4e59-b498-664cd7cbee8b",
+            "info": "Come and discover the most recognized Mexican tourist center in the world, created especially for vacations. Its velvety beaches are some of the best the Caribbean has to offer, while divers and snorkelers will find plenty of action in the waves.",
+            "phrase": "Where beauty and culture meet",
+            "region": "Latin America",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CANCUN%2Fgalery%2Fgal.jpg?alt=media&token=5ea06b54-e36b-4864-a75a-ffa9c5bfc563",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CANCUN%2Fgalery%2FgalUno.jpg?alt=media&token=ba33f9d8-c59e-4cdb-ba50-acde0608100a",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CANCUN%2Fgalery%2FgalTres.jpg?alt=media&token=21f07d2e-3177-4376-b028-234fbc8d9d69"
+        },
+        {
+            "_id": "",
+            "name": "",
+            "banner": "",
+            "country": "",
+            "language":"",
+            "image": "",
+            "info": "",
+            "phrase": "",
+            "region": "",
+            "galUno":"",
+            "galDos":"",
+            "galTres":""
+        },
+
         
     ]
 }
