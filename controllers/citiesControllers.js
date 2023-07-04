@@ -52,7 +52,7 @@ const citiesControllers = {
 
     },
     addCity: async (req, res) => {
-        const { name, banner, country, image, info, phrase, region } = req.body.data
+        const { name, banner, country, language,image, info, phrase, region, galUno,galDos,galTres } = req.body.data
         // console.log(req.body.data)
         // res.json({ response: "OK" })
         let city
@@ -65,10 +65,14 @@ const citiesControllers = {
                     name: name,
                     banner: banner,
                     country: country,
+                    language:language,
                     image: image,
                     info: info,
                     phrase: phrase,
-                    region: region
+                    region: region,
+                    galUno:galUno,
+                    galDos:galDos,
+                    galTres: galTres
                 }).save()
             } else {
                 error = "La ciudad ya existe en BD con el id:" + cityExist._id + "ingreso por ADD ONCE CITY"
@@ -94,10 +98,14 @@ const citiesControllers = {
                         name: city.name,
                         banner: city.banner,
                         country: city.country,
+                        language:city.language,
                         image: city.image,
                         info: city.info,
                         phrase: city.phrase,
-                        region: city.region
+                        region: city.region,
+                        galUno:city.galUno,
+                        galDos:city.galDos,
+                        galTres: city.galTres
                     }
 
                     await new Cities({

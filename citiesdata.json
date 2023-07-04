@@ -212,18 +212,61 @@
         },
         {
             "_id": "",
-            "name": "",
-            "banner": "",
-            "country": "",
-            "language":"",
-            "image": "",
-            "info": "",
-            "phrase": "",
-            "region": "",
-            "galUno":"",
-            "galDos":"",
-            "galTres":""
+            "name": "Cusco",
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2Fgalery%2F558e39c6-d8c6-4d4b-bec0-69cf807b02d6.jpg?alt=media&token=c7d27453-3ad8-4ea0-bae8-6ec6ec727432",
+            "country": "Republic of Peru",
+            "language":"Spanish",
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2FGI-930824730_MachuPicchu.jpg?alt=media&token=fb9b7b89-fd83-460f-9683-e7c94ea1b69b",
+            "info": "Visit Cusco and you will be able to learn more about the mysterious culture of the Incas, and then start the trip to Machu Picchu. A whole adventure awaits you through different landscapes that enhance the trip, you will be able to appreciate all the urban distribution and the harmony that this enclosure has with nature.",
+            "phrase": "Get to know the old mountain in the Andes Mountains",
+            "region": "Latin America",
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2Fgalery%2FgalDos.jpg?alt=media&token=6b8fe5e2-b635-4e28-bb94-8d699836623e",
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2Fgalery%2FgalUno.jpg?alt=media&token=e9bc6a6a-5c72-4771-a7f8-06781b42025e",
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/CUSCO%2Fgalery%2FgalTres.jpg?alt=media&token=cd560c4c-7e53-4c59-abf4-bd82808f5558"
         },
+        { 
+            "_id": "", 
+            "name": "Sydney", 
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fgalery%2F2c76186a-3daf-4c09-a650-1ad29084a484.jpg?alt=media&token=a8698400-a104-42e7-b02a-9c247a740dcf", 
+            "country": "Australia", 
+            "language":"English", 
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fsidney.jpg?alt=media&token=f3abac69-5921-42c2-a66a-9e871fcdce3b", 
+            "info": "Get to know this cosmopolitan city on the shores of Port Jackson, surrounded by national parks with bays and rivers. In Sydney everything mixes, natural resources and human architectural audacity are in harmony", 
+            "phrase": "Australia's wonderful star city", 
+            "region": "Oceanía", 
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fgalery%2FgalDos.jpg?alt=media&token=dd7ad0ab-3f7e-4a73-b931-5d954483441f", 
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fgalery%2FgalUno.jpg?alt=media&token=1ef792ef-c3c6-4d8f-a762-b1653fa3a5be", 
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/SYDNEY%2Fgalery%2FgalTres.jpg?alt=media&token=a27e2dbf-c8cd-49b0-8ac7-1383784aa19e" 
+        },
+        { 
+            "_id": "", 
+            "name": "", 
+            "banner": "", 
+            "country": "", 
+            "language":"", 
+            "image": "", 
+            "info": "", 
+            "phrase": "", 
+            "region": "", 
+            "galUno":"", 
+            "galDos":"", 
+            "galTres":"" 
+        },
+        { 
+            "_id": "", 
+            "name": "", 
+            "banner": "", 
+            "country": "", 
+            "language":"", 
+            "image": "", 
+            "info": "", 
+            "phrase": "", 
+            "region": "", 
+            "galUno":"", 
+            "galDos":"", 
+            "galTres":"" 
+        },
+        
 
         
     ]
