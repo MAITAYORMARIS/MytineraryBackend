@@ -335,6 +335,20 @@
             "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ZURICH%2Fgalery%2Fgal.jpg?alt=media&token=fab37544-ce1d-4e71-853d-f7e47cb76fe8", 
             "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ZURICH%2Fgalery%2FgalDos.jpg?alt=media&token=8c57bf01-8126-4dae-8d15-880c1c79bf90", 
             "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ZURICH%2Fgalery%2FgaUno.jpg?alt=media&token=b86e30ae-6061-473e-af6c-6ce5f687682f"
+        },
+        { 
+            "_id": "", 
+            "name": "Rome", 
+            "banner": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ROME%2Fgalery%2FbannerRome.jpg?alt=media&token=aabb665e-253c-41b7-a39b-241a35c8331b", 
+            "country": "Italian Republic", 
+            "language":"Italian", 
+            "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ROME%2FimageRome.jpg?alt=media&token=d9fa84be-e51e-46ee-b347-b71f9a07d0a6", 
+            "info":"Take a trip back in time and come visit the city with the highest concentration of historical and architectural heritage in the world. Get to know first-hand the relics inherited from its different periods of maximum splendor",
+            "phrase": "Come To the Città Eterna", 
+            "region": "Europe", 
+            "galTres":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ROME%2Fgalery%2Frome.jpg?alt=media&token=f80b5149-51d9-4db3-b188-266acefb844d", 
+            "galUno":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ROME%2Fgalery%2FgalTresRoma.jpg?alt=media&token=d4de45df-f3df-4c24-9bf9-f1878e69b447", 
+            "galDos":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/ROME%2Fgalery%2FgalDos.jpg?alt=media&token=5813bad5-244f-4933-b0ff-392bfa4b3bbc"
         }
 
   

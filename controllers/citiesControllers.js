@@ -53,13 +53,12 @@ const citiesControllers = {
     },
     addCity: async (req, res) => {
         const { name, banner, country, language,image, info, phrase, region, galUno,galDos,galTres } = req.body.data
-        // console.log(req.body.data)
-        // res.json({ response: "OK" })
+        
         let city
         let error = null
 
         try {
-            let cityExist = await Cities.findOne({ name: { $regex: name, $options: "i" } })
+            let cityExist = await Cities.find({ name: { $regex: name, $options: "i" } })
             if (cityExist.length == 0) {
                 city = await new Cities({
                     name: name,
@@ -75,7 +74,7 @@ const citiesControllers = {
                     galTres: galTres
                 }).save()
             } else {
-                error = "La ciudad ya existe en BD con el id:" + cityExist._id + "ingreso por ADD ONCE CITY"
+                error = "La ciudad ya existe en BD con el id:" + cityExist[0]._id + "ingreso por ADD ONCE CITY"
             }
 
         } catch (err) { error = err }
