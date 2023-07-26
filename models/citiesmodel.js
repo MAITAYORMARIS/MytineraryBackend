@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose")
 
 const citiesSchema = new mongoose.Schema({
     name:{type:String, required:true},
@@ -11,7 +11,11 @@ const citiesSchema = new mongoose.Schema({
     region:{type:String,required:true},
     galUno:{type:String,required:true},
     galDos:{type:String,required:true},
-    galTres:{type:String,required:true}
+    galTres:{type:String,required:true},
+    climate:{type:String,required:true},
+    nationalCoin:{type:String,required:true},
+    coinIcon:{type:String,required:true},
+    flag:{type:String,required:true}
 
 })
 

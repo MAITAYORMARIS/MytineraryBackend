@@ -42,6 +42,7 @@ const citiesControllers = {
         let error = null
         try {
             city = await Cities.findOneAndUpdate({ _id: id }, dataCity, { new: true })
+            console.log(city)
         } catch (err) { error = err }
 
         res.json({
@@ -52,8 +53,8 @@ const citiesControllers = {
 
     },
     addCity: async (req, res) => {
-        const { name, banner, country, language,image, info, phrase, region, galUno,galDos,galTres } = req.body.data
-        
+        const { name, banner, country, language, image, info, phrase, region, galUno, galDos, galTres, climate, nationalCoin, coinIcon, flag } = req.body.data
+
         let city
         let error = null
 
@@ -64,14 +65,18 @@ const citiesControllers = {
                     name: name,
                     banner: banner,
                     country: country,
-                    language:language,
+                    language: language,
                     image: image,
                     info: info,
                     phrase: phrase,
                     region: region,
-                    galUno:galUno,
-                    galDos:galDos,
-                    galTres: galTres
+                    galUno: galUno,
+                    galDos: galDos,
+                    galTres: galTres,
+                    climate: climate,
+                    nationalCoin: nationalCoin,
+                    coinIcon: coinIcon,
+                    flag: flag
                 }).save()
             } else {
                 error = "La ciudad ya existe en BD con el id:" + cityExist[0]._id + "ingreso por ADD ONCE CITY"
@@ -97,14 +102,18 @@ const citiesControllers = {
                         name: city.name,
                         banner: city.banner,
                         country: city.country,
-                        language:city.language,
+                        language: city.language,
                         image: city.image,
                         info: city.info,
                         phrase: city.phrase,
                         region: city.region,
-                        galUno:city.galUno,
-                        galDos:city.galDos,
-                        galTres: city.galTres
+                        galUno: city.galUno,
+                        galDos: city.galDos,
+                        galTres: city.galTres,
+                        climate: city.climate,
+                        nationalCoin: city.nationalCoin,
+                        coinIcon: city.coinIcon,
+                        flag: city.flag
                     }
 
                     await new Cities({
@@ -119,7 +128,7 @@ const citiesControllers = {
                     })
                 }
             }
-            catch (err) {error.push(err)}
+            catch (err) { error.push(err) }
         }
         res.json({
             response: error.length > 0 && cities.length === 0 ? "ERROR" : cities,
@@ -146,24 +155,24 @@ const citiesControllers = {
 
     deleteManyCities: async (req, res) => {
         const id = req.body.id
-        citiesDelete=[]
+        citiesDelete = []
         let error = []
 
-        for(let id of data){
+        for (let id of data) {
             try {
                 let city
                 city = await Cities.findOneAndDelete({ _id: id })
-                if (city){
+                if (city) {
                     citiesDelete.push(city)
-                }else{
+                } else {
                     error.push({
-                        id:id,
+                        id: id,
                         error: "no se encontro el ID de la ciudad a eliminar"
                     })
                 }
-            } catch(err) {error.push(err)}
+            } catch (err) { error.push(err) }
         }
-       
+
 
         res.json({
             response: error.length > 0 && citiesDelete.length === 0 ? "ERROR" : citiesDelete,

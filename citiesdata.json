@@ -7,12 +7,17 @@
                 "country": "United States of Mexico",
                 "image": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2FciudadDeMexicojpg.jpg?alt=media&token=05723253-a71b-43e2-b7a8-723fe717fd40",
                 "info": "Come and discover the metropolis of Mexico City, where contemporary life mixes with ancient history that goes back to the Aztecs. Vibrant dining options, nightlife, arts and culture",
-                "phrase": "Gateway of Mexico",
+                "phrase": "The City of Palaces",
                 "region": "Latin America",
                 "galDos": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalDos.jpg?alt=media&token=18f14567-595a-40c4-9ffd-484dd68e7ad8",
                 "galTres": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalTres.jpg?alt=media&token=366cae29-0cb4-4fe6-a3d0-ee52dbdb6425",
                 "galUno": "https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fgaleria%2FgalUno.jpg?alt=media&token=86145daf-9d6a-49be-a8c1-ae754d9ab8a1",
-                "language": "Spanish"
+                "language": "Spanish",
+                "slogan": "Very Noble and Distinguished, Very Loyal and Imperial",
+                "climate":"Temperate sub-humid mountain climate, average temperatures of 16°",
+                "nationalCoin":"Mexican pesos (MXN)",
+                "coinIcon":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fpeso.png?alt=media&token=310d6218-209e-4666-8c8b-bd200d932260",
+                "flag":"https://firebasestorage.googleapis.com/v0/b/mytinerary-6ce01.appspot.com/o/MEXICO%2Fmexico.png?alt=media&token=92cf5e77-037f-43f7-a0aa-e28c46f052b6"
         },
         {
             "_id": "6498d990931a59b9c4c80ab6",
